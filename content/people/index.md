@@ -4,7 +4,7 @@ title: Organisatoren
 type: landing
 
 sections:
-  - block: Organisatoren
+  - block: people
     content:
       title: Stefan Lab @ Medical School Berlin
       # Choose which groups/teams of users to display.
