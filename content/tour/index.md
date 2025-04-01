@@ -8,8 +8,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: Wilkommen bei Science for US
+        content: 'Gucke nach über was wir diskutieren'
         align: center
         background:
           image:
@@ -18,18 +18,8 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
-        align: left
-        background:
-          image:
-            filename: contact.jpg
-            filters:
-              brightness: 0.7
-          position: center
-          color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: Diskussions Gruppe
+        content: 'Wir unterhalten uns über aktuelle Ereignisse bezüglich wissenschaftlicher Freiheit und diskutieren, wie wir Betroffenen helfen können. '
         align: right
         background:
           image:
@@ -38,6 +28,16 @@ sections:
               brightness: 0.5
           position: center
           color: '#333'
+      - title: Lunch/Dine & Learn ☕️
+        content: 'Wir treffen uns 2-wöchentlich entweder zum Mitag oder Abend'
+        align: left
+        background:
+          image:
+            filename: contact.jpg
+            filters:
+              brightness: 0.7
+          position: center
+          color: '#555'
         link:
           icon: graduation-cap
           icon_pack: fas

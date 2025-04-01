@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: Media, die besprochen wurden
 
 # Listing view
 view: citation
