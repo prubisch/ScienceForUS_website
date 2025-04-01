@@ -4,7 +4,7 @@ title: Kontakt
 type: landing
 
 sections:
-  - block: contact#Kontakt
+  - block: contact
     content:
       title: Kontakt
       text: |-
