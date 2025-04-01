@@ -1,25 +1,23 @@
 ---
 # Leave the homepage title empty to use the site title
 title:
-date: 2022-10-24
 type: landing
 
 sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
+        Scienes for US
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        Freie unabhängige Wissenschaft für alle. 
   
   - block: collection
     content:
-      title: Latest News
+      title: Thematik
       subtitle:
       text:
       count: 5
@@ -45,7 +43,7 @@ sections:
       columns: '1'
       background:
         image: 
-          filename: coders.jpg
+          filename: #coders.jpg
           filters:
             brightness: 1
           parallax: false
@@ -58,15 +56,15 @@ sections:
 
   - block: collection
     content:
-      title: Latest Preprints
+      title: Nächste Meetings
       text: ""
       count: 5
       filters:
         folders:
-          - publication
+          - event
         publication_type: 'article'
     design:
-      view: citation
+      view: #citation
       columns: '1'
 
   - block: markdown
@@ -74,7 +72,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        {{% cta cta_link="./people/" cta_text="Meet the organisers →" %}}
     design:
       columns: '1'
 ---

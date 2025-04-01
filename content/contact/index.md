@@ -1,11 +1,10 @@
 ---
 title: Kontakt
-date: 2025-04-01
 
 type: landing
 
 sections:
-  - block: Kontakt
+  - block: contact#Kontakt
     content:
       title: Kontakt
       text: |-
