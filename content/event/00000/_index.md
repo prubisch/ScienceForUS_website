@@ -19,7 +19,7 @@ Den Link zum Zoom Meeting findet ihr in der Beschreibung der einzelnen Termine. 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 'General'
+date: ''
 #date_end: '2030-06-01T15:00:00Z'
 #all_day: false
 
