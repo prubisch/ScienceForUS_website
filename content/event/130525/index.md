@@ -62,3 +62,6 @@ url_video: ''
 #- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/writing-markdown-latex/).
 
 #Further event details, including page elements such as image galleries, can be added to the body of this page.
+
+event_groups:
+  - Mittagsmeeting
