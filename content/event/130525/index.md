@@ -4,8 +4,8 @@ title: Start von Science for US
 event: 'Lunch Meeting (Meeting ID: 818 2403 8397, Passcode: YMUV8GeM)'
 #event_url: https://example.org
 
-location: Zoom
-url: https://ed-ac-uk.zoom.us/j/81824038397 
+location: 'https://ed-ac-uk.zoom.us/j/81824038397'
+#url:  
 #address:
 #  street: 450 Serra Mall
 #  city: Stanford
