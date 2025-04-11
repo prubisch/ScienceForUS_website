@@ -1,5 +1,5 @@
 ---
-title: General Information
+title: Allgemeine Information
 
 event: Terminkalender import
 #event_url: https://example.org
@@ -18,7 +18,7 @@ summary: 'Wir treffen uns alle 14 Tage über Zoom. Das nächste Meeting wird dir
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-05-13T13:00:00Z'
+#date: '2025-05-13T13:00:00Z'
 #date_end: '2030-06-01T15:00:00Z'
 #all_day: false
 
