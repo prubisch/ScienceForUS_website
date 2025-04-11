@@ -24,7 +24,7 @@ date: '2025-04-15T13:00:00Z'
 
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
-
+---
 
 event_groups:
   - Abendsmeeting

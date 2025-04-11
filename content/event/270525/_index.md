@@ -25,7 +25,7 @@ date: '2025-05-27T17:00:00Z'
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
 
-
+---
 
 #Further event details, including page elements such as image galleries, can be added to the body of this page.
 event_groups:
