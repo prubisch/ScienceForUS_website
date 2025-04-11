@@ -5,7 +5,7 @@ event: Lunch Meeting
 #event_url: https://example.org
 
 location: Zoom
-url:
+url: https://ed-ac-uk.zoom.us/j/81824038397 (Meeting ID: 818 2403 8397, Passcode: YMUV8GeM)
 #address:
 #  street: 450 Serra Mall
 #  city: Stanford
