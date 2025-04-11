@@ -23,8 +23,7 @@ summary: 'Wir treffen uns alle 14 Tage über Zoom. Das nächste Meeting wird dir
 #all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
-show_date : false
+#publishDate: '2017-01-01T00:00:00Z'
 
 authors: []
 tags: []
