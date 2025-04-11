@@ -5,7 +5,7 @@ event: Terminkalender import
 #event_url: https://example.org
 
 #location: Zoom
-url: https://ed-ac-uk.zoom.us/meeting/tZUlde2orTMpE9MPumq2Mqf_AFD1U1PiQXpl/ics?icsToken=DAesz6jaP5-sPJ0dFwAALAAAADaRtDynenM3QzSyd-rOYXqHpVR7HtkuKdgbGW4fFYT4UUNLJ-j7CQEvbAekdaQfkbNo2VlmvSjtBkRBCTAwMDAwMQ&meetingMasterEventId=4pV8Kup-TTqlfk4ZXhgvKw
+url: 'https://ed-ac-uk.zoom.us/meeting/tZUlde2orTMpE9MPumq2Mqf_AFD1U1PiQXpl/ics?icsToken=DAesz6jaP5-sPJ0dFwAALAAAADaRtDynenM3QzSyd-rOYXqHpVR7HtkuKdgbGW4fFYT4UUNLJ-j7CQEvbAekdaQfkbNo2VlmvSjtBkRBCTAwMDAwMQ&meetingMasterEventId=4pV8Kup-TTqlfk4ZXhgvKw'
 #address:
 #  street: 450 Serra Mall
 #  city: Stanford
