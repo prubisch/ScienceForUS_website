@@ -1,7 +1,7 @@
 ---
 title: Start von Science for US
 
-event: Dinner Meeting (Meeting ID: 818 2403 8397, Passcode: YMUV8GeM)
+event: 'Dinner Meeting (Meeting ID: 818 2403 8397, Passcode: YMUV8GeM)'
 #event_url: https://example.org
 
 location: Zoom
