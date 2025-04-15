@@ -13,7 +13,7 @@ location: 'https://ed-ac-uk.zoom.us/j/81824038397'
 #  postcode: '94305'
 #  country: United States
 
-summary:''
+summary: ''
 abstract: ''
 
 # Talk start and end times.
