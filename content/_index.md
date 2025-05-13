@@ -47,8 +47,6 @@ sections:
 * Der Austausch ist respektvoll und wohlwollend. Auch in hitzigen Diskussionen muss garantiert werden, dass wir mit respekt unserem gegenüber begegenen. '
     design:
       columns: '1'
-      background:
-      css_class: fullscreen
 
   - block: markdown
     content:
