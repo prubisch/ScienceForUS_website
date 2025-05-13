@@ -9,7 +9,7 @@ sections:
       title: Kontakt
       text: |-
         Falls ihr Anregung oder Fragen habt, schreibt uns gerne. 
-      email: patricia.rubisch@medicalschool-berlin.de
+      email: scienceforus25@gmail.com
       address:
         street: Rüdesheimer Straße 50
         city: Berlin

@@ -1,7 +1,7 @@
 ---
-title: Lunch Meeting
+title: Abends Meeting
 
-event: 'Lunch Meeting (Meeting ID: 818 2403 8397, Passcode: YMUV8GeM)'
+event: 'Dinner Meeting (Meeting ID: 818 2403 8397, Passcode: YMUV8GeM)'
 #event_url: https://example.org
 
 location: 'https://ed-ac-uk.zoom.us/j/81824038397'
@@ -18,7 +18,7 @@ abstract: 'TBD'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-05-27T13:00:00Z'
+date: '2025-05-27T17:00:00Z'
 #date_end: '2030-06-01T15:00:00Z'
 #all_day: false
 
@@ -26,7 +26,4 @@ date: '2025-05-27T13:00:00Z'
 publishDate: '2017-01-01T00:00:00Z'
 
 ---
-
-#Further event details, including page elements such as image galleries, can be added to the body of this page.
-event_groups:
-  - Mittagssmeeting
+Abendsmeeting
