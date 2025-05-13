@@ -49,7 +49,7 @@ sections:
       columns: '1'
       background:
       spacing:
-        padding: ['20px', '0', '0px', '0']
+        padding: ['0px', '0', '0px', '0']
       css_class: fullscreen
 
   - block: collection
@@ -61,8 +61,12 @@ sections:
         folders:
           - event
         publication_type: ''
+    tag: ''
+      offset: 0
+      order: desc
+      page_type: post
     design:
-      view: #citation
+      view: card
       columns: '1'
 
   - block: markdown
