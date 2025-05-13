@@ -61,7 +61,7 @@ sections:
         folders:
           - event
         publication_type: ''
-    tag: ''
+        tag: ''
       offset: 0
       order: desc
       page_type: post
