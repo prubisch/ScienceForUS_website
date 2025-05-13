@@ -1,10 +1,10 @@
 ---
 title: Abendsmeeting
 
-event: 'Reguläres Meeting (Meeting ID: 818 2403 8397, Passcode: YMUV8GeM)'
+event: 'Dinner Meeting (Meeting ID: 772 0438 0037, Passcode: 828199)'
 #event_url: https://example.org
 
-location: 'https://ed-ac-uk.zoom.us/j/81824038397'
+location: 'https://us06web.zoom.us/j/77204380037?pwd=LlcWmAbSK3UaYl8eau5UvGCORlbwjG.1'
 #url:  
 #address:
 #  street: 450 Serra Mall

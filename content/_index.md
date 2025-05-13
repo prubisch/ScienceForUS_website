@@ -36,20 +36,12 @@ sections:
   
   - block: markdown
     content:
-      title:
+      title: Code of Conduct
       subtitle: ''
-      text:
+      text: 'Wir laden zum gemeinsamen diskutieren ein, dabei ist uns wichtig das folgende Dinge immer eingehalten werden: \n Alle Meinung sind willkommen und gewünscht. Austausch lebt von unterschiedlichen Meinungen ung lebhafter Diskussion. \n Egal ob Student, WiMi oder Professor, wir sind alle gleichgestellt und jeder hat das selbe Recht sih mitzuteilen. \n Der Austausch ist respektvoll und wohlwollend. Auch in hitzigen Diskussionen muss garantiert werden, dass wir mit respekt unserem gegenüber begegenen. '
     design:
       columns: '1'
       background:
-        image: 
-          filename: #coders.jpg
-          filters:
-            brightness: 1
-          parallax: false
-          position: center
-          size: cover
-          text_color_light: true
       spacing:
         padding: ['20px', '0', '20px', '0']
       css_class: fullscreen
@@ -62,7 +54,7 @@ sections:
       filters:
         folders:
           - event
-        publication_type: 'article'
+        publication_type: ''
     design:
       view: #citation
       columns: '1'
