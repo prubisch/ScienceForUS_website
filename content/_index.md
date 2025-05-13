@@ -7,7 +7,7 @@ sections:
   - block: hero
     content:
       title: |
-        Scienes for US
+        Science for US
       image:
         filename: welcome.jpg
       text: |
