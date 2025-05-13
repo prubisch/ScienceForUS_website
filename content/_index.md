@@ -38,12 +38,18 @@ sections:
     content:
       title: Code of Conduct
       subtitle: ''
-      text: 'Wir laden zum gemeinsamen diskutieren ein, dabei ist uns wichtig das folgende Dinge immer eingehalten werden: /n Alle Meinung sind willkommen und gewünscht. Austausch lebt von unterschiedlichen Meinungen ung lebhafter Diskussion. /n Egal ob Student, WiMi oder Professor, wir sind alle gleichgestellt und jeder hat das selbe Recht sih mitzuteilen. /n Der Austausch ist respektvoll und wohlwollend. Auch in hitzigen Diskussionen muss garantiert werden, dass wir mit respekt unserem gegenüber begegenen. '
+      text: 'Wir laden zum gemeinsamen diskutieren ein, dabei ist uns wichtig das folgende Dinge immer eingehalten werden: 
+
+* Alle Meinung sind willkommen und gewünscht: Austausch lebt von unterschiedlichen Meinungen ung lebhafter Diskussion. 
+
+* Egal ob Student, WiMi oder Professor: wir sind alle gleichgestellt und jeder hat das selbe Recht sih mitzuteilen. 
+
+* Der Austausch ist respektvoll und wohlwollend. Auch in hitzigen Diskussionen muss garantiert werden, dass wir mit respekt unserem gegenüber begegenen. '
     design:
       columns: '1'
       background:
       spacing:
-        padding: ['20px', '0', '20px', '0']
+        padding: ['20px', '0', '0px', '0']
       css_class: fullscreen
 
   - block: collection
