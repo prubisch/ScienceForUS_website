@@ -48,14 +48,14 @@ sections:
     design:
       columns: '1'
       background:
-      spacing:
-        padding: ['0px', '0', '0px', '0']
       css_class: fullscreen
 
-  - block: collection
+  - block: markdown
     content:
-      title: Nächste Meetings
-      text: ""
+      title:
+      subtitle: 
+      text: |
+         {{% cta cta_link="./event/" cta_text="Nächste Meetings →" %}}
       count: 5
       filters:
         folders:
