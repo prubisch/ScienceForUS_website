@@ -1,7 +1,7 @@
 ---
-title: Lunch Meeting
+title: Reisetipss für (Dienst-)Reisen in die USA
 
-event: 'Lunch Meeting (Meeting ID: 772 0438 0037, Passcode: 828199)'
+event: 'Reisetipss für (Dienst-)Reisen in die USA (Meeting ID: 772 0438 0037, Passcode: 828199)'
 #event_url: https://example.org
 
 location: 'https://us06web.zoom.us/j/77204380037?pwd=LlcWmAbSK3UaYl8eau5UvGCORlbwjG.1'
@@ -13,8 +13,8 @@ location: 'https://us06web.zoom.us/j/77204380037?pwd=LlcWmAbSK3UaYl8eau5UvGCORlb
 #  postcode: '94305'
 #  country: United States
 
-summary: TBD.
-abstract: 'TBD'
+summary: 'Welche Dinge sollte man vor und während einer Reise in die USA beachten? Welche Dokumente sollt eman immer bei sich führen? Folien sind über diesen Link einsehbar: https://docs.google.com/presentation/d/1mGQ2sSzKuwS8f1X3iIWZtNmKCcMO-hXb1suUEJbF6ts/edit?usp=sharing'
+abstract: 'https://docs.google.com/presentation/d/1mGQ2sSzKuwS8f1X3iIWZtNmKCcMO-hXb1suUEJbF6ts/edit?usp=sharing'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -28,4 +28,4 @@ publishDate: '2017-01-01T00:00:00Z'
 ---
 
 #Further event details, including page elements such as image galleries, can be added to the body of this page.
-Mittagsmeeting
+

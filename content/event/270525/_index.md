@@ -1,7 +1,7 @@
 ---
-title: Abends Meeting
+title: US Datenbanken und Informationssysteme
 
-event: 'Dinner Meeting (Meeting ID: 772 0438 0037, Passcode: 828199)'
+event: 'US Datenbanken und Informationssysteme (Meeting ID: 772 0438 0037, Passcode: 828199)'
 #event_url: https://example.org
 
 location: 'https://us06web.zoom.us/j/77204380037?pwd=LlcWmAbSK3UaYl8eau5UvGCORlbwjG.1'
@@ -13,8 +13,8 @@ location: 'https://us06web.zoom.us/j/77204380037?pwd=LlcWmAbSK3UaYl8eau5UvGCORlb
 #  postcode: '94305'
 #  country: United States
 
-summary: TBD.
-abstract: 'TBD'
+summary: 'Welche Eingriffe in offizielle Informationswebsiten und Datenbanken konnten schon beobachtet werden? Wie kann man aktiv dagegen wirken das sensible und wichtige Datensätze nicht mehr verfügbar sind? Folien können über diesen Link eingesehen werden: https://docs.google.com/presentation/d/1R0ItfCCCtw4VY_6e1no4YCjr4WRx13M5KufAC8JMUTo/edit?usp=sharing'
+abstract: 'https://docs.google.com/presentation/d/1R0ItfCCCtw4VY_6e1no4YCjr4WRx13M5KufAC8JMUTo/edit?usp=sharing'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
