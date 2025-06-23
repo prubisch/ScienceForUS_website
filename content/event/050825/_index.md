@@ -1,7 +1,7 @@
 ---
-title: Öffentlichkeit und Wissenschaft
+title: ''
 
-event: 'Öffentlichkeit und Wissenschaft (Meeting ID: 772 0438 0037, Passcode: 828199)'
+event: 'Mittags Meeting (Meeting ID: 772 0438 0037, Passcode: 828199)'
 #event_url: https://example.org
 
 location: 'https://us06web.zoom.us/j/77204380037?pwd=LlcWmAbSK3UaYl8eau5UvGCORlbwjG.1'
@@ -13,12 +13,12 @@ location: 'https://us06web.zoom.us/j/77204380037?pwd=LlcWmAbSK3UaYl8eau5UvGCORlb
 #  postcode: '94305'
 #  country: United States
 
-summary: 'Wie sehr vertraut die Öffentlichkeit der Wissenschaft, Forschenden und wissenschaftlichen Arbeiten? Gibt es Unterschiede zwischen Ländern? Was hat die Wahrnehmung der Wissenschaft beeinträchtigt und was können wir dagegen tun? '
+summary: 'TBD'
 abstract: 'Folienlink wird nach dem Meeting hier veröffentlicht.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2025-06-24T17:00:00Z'
+date: '2025-08-05T13:00:00Z'
 #date_end: '2030-06-01T15:00:00Z'
 #all_day: false
 
